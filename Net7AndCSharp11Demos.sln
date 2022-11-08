@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33027.239
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderingDemo", "OrderingDemo\OrderingDemo.csproj", "{20CDEB38-80FF-497A-80AE-21E02A27EACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMathDemo", "GenericMathDemo\GenericMathDemo.csproj", "{D203CC80-178B-4300-A996-207FC7FCA4E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CDEB38-80FF-497A-80AE-21E02A27EACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CDEB38-80FF-497A-80AE-21E02A27EACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CDEB38-80FF-497A-80AE-21E02A27EACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CDEB38-80FF-497A-80AE-21E02A27EACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D203CC80-178B-4300-A996-207FC7FCA4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D203CC80-178B-4300-A996-207FC7FCA4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D203CC80-178B-4300-A996-207FC7FCA4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D203CC80-178B-4300-A996-207FC7FCA4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1736A9-1F65-4F54-B12B-D60835C05CC4}
+	EndGlobalSection
+EndGlobal
